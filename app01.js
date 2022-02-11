@@ -58,3 +58,6 @@ function LimpiarHtml(){
      }
 }
 
+function ValidarEntradas(){
+  
+}
