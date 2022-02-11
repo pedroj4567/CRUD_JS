@@ -51,8 +51,10 @@ function cargarHtml(dato) {
 }
 
 
+
 function LimpiarHtml(){
      while(contenedorDatos.firstChild){
        contenedorDatos.removeChild(contenedorDatos.firstChild);
      }
 }
+
