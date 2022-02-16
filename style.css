@@ -96,4 +96,10 @@ table tr:nth-child(even){
 }
 
 
-
+/* Btn eliminar */
+.eliminar{
+    color: red;
+    font-size: 18px;
+    font-weight: 600;
+    cursor: pointer;
+}
